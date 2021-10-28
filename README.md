@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chiranjeev</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chiranjeev Thapliyal</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
 
 
@@ -14,7 +14,7 @@
 
 - <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
 
-- 📫 How to reach me **chiranjeev_fw10_023@masai.school**
+- 📫 How to reach me **connect.chiranjeev@gmail.com**
 
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
